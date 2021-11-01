@@ -1,1 +1,5 @@
-"# animal-tracking" 
+- tourist can gather info about the animals
+- update the recent animal location
+- get recent updates / news within the wildlife area
+- developed using java swing and awt
+- included map like feature
